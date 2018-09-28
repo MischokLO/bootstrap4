@@ -1,0 +1,22 @@
+{
+  "name": "bootstrap4",
+  "version": "1.0.0",
+  "description": "package",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MischokLO/bootstrap4.git"
+  },
+  "author": "Leon Obermayer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MischokLO/bootstrap4/issues"
+  },
+  "homepage": "https://github.com/MischokLO/bootstrap4#readme",
+  "devDependencies": {
+    "lite-server": "^2.4.0"
+  }
+}
