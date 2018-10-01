@@ -52,3 +52,12 @@ body {
     border: 1px solid #000000;
     border-radius: 10px;
 }
+
+.card-header {
+    background-color: #7500c4;
+}
+
+.card {
+    border-radius: 10px;
+    margin-right: 1px;
+}
