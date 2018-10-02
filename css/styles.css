@@ -51,9 +51,9 @@ body {
 
 .card-header {
     background-color: #7500c4;
+    border-radius: 10px;
 }
 
 .card {
     border-radius: 10px;
-    margin-right: 1px;
 }
